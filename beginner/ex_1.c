@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 // ##############################
 // Scrieți un program care să citească de la tastatură două numere întregi, două numere reale și două caractere, iar apoi se le afișeze astfel:
@@ -10,8 +9,7 @@
 // ##############################
 
 int main() {
-    // variablesclear
-    
+    // variables
     int num1, num2;
     float num_real1, num_real2;
     char char1, char2;

@@ -6,7 +6,7 @@
 
 int main() {
 
-    // variablesclear
+    // variable
     int num1, num2;
     
     // get num1 and num2 values from user

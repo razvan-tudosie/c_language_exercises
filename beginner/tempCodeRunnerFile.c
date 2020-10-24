@@ -1,8 +1,9 @@
     // // get num1 and num2 values from user
-    // printf("Introdu doua numere intregi urmate de tasta 'Enter': ");
-    // scanf("%d %d", &num1, &num2);
+    // printf("Introdu primul numar intreg din trei: \n");
+    // scanf("%d", &numbers[0]);
 
-    // // get num1 and num2 values from user
-    // printf("Introdu doua numere reale urmate de tasta 'Enter': ");
-    // scanf("%d %d", &num_real1, &num_real2);
-
+    // printf("Introdu al doilea numar intreg din trei: \n");
+    // scanf("%d", &numbers[1]);
+    
+    // printf("Introdu al treilea numar intreg din trei: \n");
+    // scanf("%d", &numbers[2]);

@@ -9,7 +9,7 @@
 // ##############################
 
 int main() {
-    // variables
+    // variable
     int num1, num2;
     float num_real1, num_real2;
     char char1, char2;

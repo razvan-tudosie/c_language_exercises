@@ -6,9 +6,6 @@
 // sunt incorecte, afișați un mesaj corespunzător.
 // ##############################
 
-
-// 24 ore, 60 min, 60 sec
-
 int main() {
     int h = 0;
     int length = 3;

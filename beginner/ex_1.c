@@ -19,11 +19,11 @@ int main() {
     scanf("%c %c", &char1, &char2);
 
     // get num1 and num2 values from user
-    printf("Introdu doua NUMERE INTREGI urmate de tasta 'Enter': \n");
+    printf("Introdu doua NUMERE natural urmate de tasta 'Enter': \n");
     scanf("%d %d", &num1, &num2);
 
     // get num1 and num2 values from user
-    printf("Introdu doua NUMERE REALE urmate de tasta 'Enter': \n");
+    printf("Introdu doua NUMERE real urmate de tasta 'Enter': \n");
     scanf("%f %f", &num_real1, &num_real2);
 
     // show results for a)

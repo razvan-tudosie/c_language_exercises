@@ -7,7 +7,18 @@
 // ##############################
 
 int main() {
+   int year;
 
+    // Get year from user
+    printf("Introdu un numar intreg: \n");
+    scanf("%d", &year);
+
+    // identify if is a leap year or not
+    if (((year % 4 == 0) && (year % 100!= 0)) || (year % 400 == 0)) {
+        printf("%d este an bisect", year);
+    } else {
+        printf("%d nu este an bisect", year);
+    }
 
     return 0;
 }

@@ -5,7 +5,8 @@
 // De exemplu, în intervalul [10,100] se găsesc următoarele puteri ale lui 2: 16,32 și 64.
 // ##############################
 // ##############################
-// Author: товарищ билл
+// Author: Vlad Dumitru
+// Author Link: https://github.com/billx-x
 // ##############################
 
 int main() {

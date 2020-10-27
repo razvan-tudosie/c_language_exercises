@@ -4,7 +4,8 @@
 // Se citesc două numere întregi 𝑎 și 𝑏. Scrieți un program care calculează 𝑎𝑏.
 // ##############################
 // ##############################
-// Author: товарищ билл
+// Author: Vlad Dumitru
+// Author Link: https://github.com/billx-x
 // ##############################
 
 int main() {

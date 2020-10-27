@@ -7,7 +7,8 @@
 // să determine intervalul orar din ziua respectivă în care sunt prezenți în Facultate toți studenții.
 // ##############################
 // ##############################
-// Author: товарищ билл
+// Author: Vlad Dumitru
+// Author Link: https://github.com/billx-x
 // ##############################
 
 int main() {

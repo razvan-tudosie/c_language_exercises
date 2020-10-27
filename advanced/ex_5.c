@@ -7,7 +7,8 @@
 // de plăci, să se determine dimensiunea plăcilor de gresie de care are nevoie, precum și numărul lor.
 // ##############################
 // ##############################
-// Author: товарищ билл
+// Author: Vlad Dumitru
+// Author Link: https://github.com/billx-x
 // ##############################
 
 int main() {

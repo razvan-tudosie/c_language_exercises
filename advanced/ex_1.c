@@ -4,6 +4,7 @@
 // Se citește un număr natural 𝑛. Să se afișeze frecvența fiecărei cifre din scrierea sa.
 // ##############################
 // Author: Andrei399
+// Author Link: https://github.com/andrei399
 // ##############################
 
 int main() {
